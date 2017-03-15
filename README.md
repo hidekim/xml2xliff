@@ -4,3 +4,6 @@ Matches are made by constructing XPath for both documents recursively, and stori
 Currently, there is no strict validation for document match.
 Limited HTML support included, utilizing HtmlAgilityPack (also nuget.org).
  - Does not handle some tags properly, such as <b>bold</b> <i>italic</i> tags --- TBD
+ 
+More comments and document to be added.
+
