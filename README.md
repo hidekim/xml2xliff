@@ -8,4 +8,5 @@ TODO list:
  - Handle some HTML tags properly, such as <b>bold</b> <i>italic</i> tags
  - Abstraction for parsers
  - More comments and document
+ - Options to match documents strictly
 
