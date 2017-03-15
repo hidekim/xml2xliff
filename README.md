@@ -3,7 +3,9 @@ Just an example in converting/merging two XML documents into Xliff 2.0 document,
 Matches are made by constructing XPath for both documents recursively, and storing texts into Dictionary<>.
 Currently, there is no strict validation for document match.
 Limited HTML support included, utilizing HtmlAgilityPack (also nuget.org).
- - Does not handle some tags properly, such as <b>bold</b> <i>italic</i> tags --- TBD
- 
-More comments and document to be added.
+
+TODO list:
+ - Handle some HTML tags properly, such as <b>bold</b> <i>italic</i> tags
+ - Abstraction for parsers
+ - More comments and document
 
